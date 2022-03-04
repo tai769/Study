@@ -20,6 +20,7 @@ public class Test01 {
 
          }
         System.out.println(Anumber+" "+anumber+" "+count);
+        System.out.println(Anumber+" "+anumber+" "+count);
 
     }
 }
